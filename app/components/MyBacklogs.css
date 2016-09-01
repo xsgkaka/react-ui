@@ -1,0 +1,25 @@
+
+.workbench-panel{
+    width: 100%;
+    background: white;
+}
+
+.workbench-panel-header{
+    height:40px;
+    background: #6495ED;
+    text-align: center;
+    color: white;
+    line-height: 40px;
+}
+
+.workbench-panel-table{
+    width: 100%;
+}
+.pageToolContainer{
+    margin-top: 5px;
+}
+
+.pageToolContainer a{
+    margin-left: 1px;
+    margin-right: 1px;
+}
